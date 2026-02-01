@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-test
-=======
 # DiSCo Streamlit Demo
 
 This repository contains a Streamlit demo for  
@@ -140,4 +137,3 @@ If you use this demo or code, please cite:
   year      = {2026}
 }
 ```
->>>>>>> 248ff44 (demo files)
